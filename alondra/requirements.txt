@@ -67,7 +67,7 @@ python-openid==2.2.5
 python-twitter==3.2
 pytz==2017.2
 qrcode==4.0.4
-redis==2.10.5
+redis==4.5.3
 request==0.0.2
 requests==2.20.0
 requests-oauthlib==0.6.1
